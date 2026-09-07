@@ -26,13 +26,6 @@ Como C depende de la misma incógnita mr, se despeja mr para cada uno de los tre
 
 - `DBP_CALCULO_MR.kt`: contiene las funciones `getITF()`, `getComision()` y `getMontoRemesa()`, además de un `main()` con un monto total de ejemplo.
 
-## Cómo ejecutar
-
-```bash
-kotlinc DBP_CALCULO_MR.kt -include-runtime -d MontoRemesa.jar
-java -jar MontoRemesa.jar
-```
-
 ## Autor
 
 Angheli Luana Cuevas Yucra — Código: 251078
